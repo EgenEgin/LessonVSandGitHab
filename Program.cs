@@ -11,7 +11,7 @@ namespace LessonVSandGitHab
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello Worldddd");
+            Console.WriteLine("Hellooooo Worldddd");
 
             //Deley
             Console.ReadKey();
